@@ -13,5 +13,5 @@ The second assignment is about Formula Tree formally named Parse Tree, which
 contains some functions like creating the tree by giving formula, the data
 type is more like binary tree.
 
-It also contains a py file called sot.py which contains most sorting code
+It also contains a py file called sort.py which contains most sorting code
 covered during the class.
